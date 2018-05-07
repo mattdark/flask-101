@@ -43,7 +43,7 @@ python.org/downloads
 ### pip
 
 ```
-  $ sudo apt install python-pip
+  $ sudo pacman -S python-pip
 ```
 
 ----
