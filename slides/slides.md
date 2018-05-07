@@ -25,7 +25,7 @@
 ### Installation
 
 ```
-python.org/downloads
+  python.org/downloads
 
 ```
 
